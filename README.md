@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Cryptonomicon-Manish-dev
+- 👋 Hi, I’m Manish Yadav
 - 👀 I’m interested in cybersecurity, ethical hacking, and system protection.
 - 🌱 I’m currently learning Kali Linux, penetration testing, and vulnerability assessment.
 - 💞️ I’m looking to collaborate on cybersecurity projects, penetration testing, or any open-source security tools.
-- 📫 How to reach me: You can contact me through my GitHub profile or email at [your email].
+- 📫 How to reach me: You can contact me through my GitHub profile or email at yadavmanish77737@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new tools and techniques to protect systems while understanding how hackers think.
 
